@@ -2,7 +2,7 @@
 
 **Perfectionism Is Bad**
 
-Perfectionism is totally the prettified extremism. You can't make things perfect, if you do, it just make things worse. Good enough is perfect, that's it. Abandoning idea of being perfect will pay you off enormously.
+Perfectionism is totally the prettified extremism. You can't make things perfect, if you try, you'll only make things worse. Good enough is perfect, that's it. Abandoning idea of being perfect will pay you off enormously.
 
 **No One Can Get Things Well Done At Once**
 
@@ -14,7 +14,7 @@ Follow your passion? No! Passion is like fuel, power. You can't follow it. Even 
 
 **No Rule For All Things**
 
-I have been having a viewpoint: what you can talk is knowledge, what you cannot talk is wisdom. Reality is a enormous, complex system, and any rule is just a extrem simplified description about it. Rule is not a bad thing, but what you should do is learn it and use it, not completely subject to it. Be wary of those who are full of 'formulas'. Ironnically, this sentence may also adhere to the principle. 
+I have been having a viewpoint: what you can talk is knowledge, what you cannot talk is wisdom. Reality is a enormous, complex system, and any rule is just a extrem simplified description about it. Rules aren't bad, but you should learn them and use them, not blindly follow them. Be wary of those who are full of 'formulas'. Ironnically, this sentence may also adhere to the principle. 
 
 **Take Risks**
 
