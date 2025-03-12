@@ -1,7 +1,5 @@
 # Insights From The Past Five Years
 
-<span style="color:gray">date: 2022-04-20</span>
-
 **Perfectionism Is Bad**
 
 Perfectionism is totally the prettified extremism. You can't make things perfect, if you try, you'll only make things worse. Good enough is perfect, that's it. Abandoning idea of being perfect will pay you off enormously.
@@ -29,3 +27,5 @@ Curiosity is good? Enjoying thinking is good? Liking reading is good? Yes, but l
 **Success > Failure > Done Nothing**
 
 Denzel Washington once said in a speech: "if you don't fail, you are not even trying. If you want to get something you never had, you have to do something you never did". Any success not through failure is just luck, which just means you are a lucky guy than a good guy. If you want to get success, you have to try and try, and if you give it lots of tries, you definitely will fail a lot of times. It's the sign of your trying. Failure is always better than done nothing.
+
+<span style="color:gray; font-size:small;">date: 2022-04-20</span>

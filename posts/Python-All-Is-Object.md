@@ -1,7 +1,5 @@
 # Python: All Is Object
 
-<span style="color:gray">date: 2023-03-18</span>
-
 [Python doc](https://docs.python.org/3/reference/datamodel.html) states: "Objects are Python’s abstraction for data. All data in a Python program is represented by objects or by relations between objects". As an OOP programming language, Python has itself a one-sentence slogan of "Everything is object". In programming, the term object's definition is not unique, it could be a segment of memory, a variable with some methods, or instance of class etc. But, in OOP, there are some common understandings about object, such as object has its own behavior and data, moreover, object has some characteristics, like identity, type.
 
 ## characteristic of object
@@ -90,3 +88,5 @@ True
 ```
 
 Now, in Python, everything is instance of `object`. Hence, everything is object.
+
+<span style="color:gray; font-size:small;">date: 2023-03-18</span>
