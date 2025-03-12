@@ -1,5 +1,7 @@
 # Insights From The Past Five Years
 
+<span style="color:gray">date: 2022-04-20</span>
+
 **Perfectionism Is Bad**
 
 Perfectionism is totally the prettified extremism. You can't make things perfect, if you try, you'll only make things worse. Good enough is perfect, that's it. Abandoning idea of being perfect will pay you off enormously.
