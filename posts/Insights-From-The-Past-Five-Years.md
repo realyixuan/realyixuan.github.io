@@ -20,7 +20,7 @@ I have been having a viewpoint: what you can talk is knowledge, what you cannot 
 
 There is risk in everything. It is attached with opportunity. If you refuse it then you refuse all things attached on it. Choose reasonable risks, and take it.
 
-**All qualities have their downsides**
+**All Qualities Have Their Downsides**
 
 Curiosity is good? Enjoying thinking is good? Liking reading is good? Yes, but limited. When in a suitable situation, it's good, when not, not. Learn to distinguish where it is good and where it's not. And learn to control them, it's a high-level capability. Don't let them rule you, if so, you will be confused.
 
